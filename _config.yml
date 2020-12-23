@@ -67,6 +67,9 @@ author:
   avatar : "/assets/images/avatar.jpg"
   bio    : "My awesome place about programming"
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/marcingladkowski"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MarcinGladkowski"
@@ -76,6 +79,9 @@ author:
 
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/marcingladkowski"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MarcinGladkowski"

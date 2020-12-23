@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "WarsawJs 44 Design patterns"
 ---
 

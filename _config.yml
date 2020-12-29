@@ -32,8 +32,15 @@ github_username:  jekyll
 # Build settings
 theme: minimal-mistakes-jekyll
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
+  - jemoji
   - jekyll-include-cache
+
+include:
+  - _pages  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -66,6 +73,7 @@ author:
   name   : "Marcin Gładkowski"
   avatar : "/assets/images/avatar.jpg"
   bio    : "My awesome place about programming"
+  location : "Poland"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
@@ -117,4 +125,5 @@ tag_archive:
   path: /tags/
 
 # run local development
-# bundle exec jekyll serve
+# bundle exec jekyll serve [--watch]
+# examples of posts: https://github.com/mmistakes/minimal-mistakes/tree/master/docs/_posts

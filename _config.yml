@@ -33,7 +33,7 @@ github_username:  jekyll
 future: true
 
 # Build settings
-theme: minimal
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-paginate
   - jekyll-sitemap

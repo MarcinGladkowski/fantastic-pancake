@@ -26,9 +26,20 @@ part. After numerous of pages the developing of game was a little boring.
 Next part about visualizations data shows me why the Python is often using to this tasks. Libraries like matplotlib, plotly doing a great job and usage of them are not complicate but they have a lot of 
 options.
 
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/crash_course/crash_course_1.png" alt="earthquakes_map">
+    <figcaption>Plotly - earthquakes map</figcaption>
+</figure> 
+
 The last project was a web application to monitors progress of learning. I'm a PHP developer and I was surprized how Django is similar to other frameworks from another programing language. 
 There are the same ideas like cli commands, views, controllers. The 
 last step was a developing this app on Heroku, and was very interesting for me.
+
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/crash_course/crash_course_2.png" alt="learning_log_app">
+<figcaption>Django - learning log app</figcaption>
+</figure> 
 
 
 In summarize. The book is quite good but for beginners. If you have

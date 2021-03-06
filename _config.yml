@@ -129,5 +129,5 @@ tag_archive:
 
 # run local development
 # bundle exec jekyll serve [--watch]
-# examples of posts: https://github.com/mmistakes/minimal-mistakes/tree/master/docs/_posts
-# Deployed example: https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/
+# [examples of posts](https://github.com/mmistakes/minimal-mistakes/tree/master/docs/_posts)
+# [Deployed example](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)

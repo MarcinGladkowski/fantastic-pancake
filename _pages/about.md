@@ -2,11 +2,7 @@
 permalink: /about/
 ---
 
-Hello everyone! I coding a past few years and i am sure it's my **passion**.
-I trying to learn something new everyday. I always wondering about writing my own blog.
-There is a way to memorize somethings about what i learn but also what i am done and each
-activity in programming. I am very opened mind to new things. If you read this little description
-and maybe you want code something new, it's time to write to me.
+Hello everyone! I have been coding for the past few years and it's become my **passion**. I try to learn something new every day. I have been thinking about writing a blog about programming and this is the outcome of this thought. I hope these tips, based off of my experience, will help you want to learn about programming. If you read this description and you want help coding something new, please write to me.
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/about/me_1.jpg" alt="">

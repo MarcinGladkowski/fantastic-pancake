@@ -75,7 +75,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 author:
   name   : "Marcin Gładkowski"
   avatar : "/assets/images/avatar.jpg"
-  bio    : "My awesome place about programming"
+  bio    : "My Awesome World About Programming"
   location : "Poland"
   links:
     - label: "LinkedIn"

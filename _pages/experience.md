@@ -4,7 +4,7 @@ permalink: /experience/
 
 
 #### Profile
-> I’m a person who enjoy to create new innovate solutions. I really like to improve skill and want to get new one, and also to spread it with other.  
+> I’m a person who enjoys to creating new innovative solutions. I really like to improve skills and want to obtain new ones, and also to spread it with others.  
 
 
 

@@ -9,31 +9,34 @@ Hello everyone! I have been coding for the past few years and it's become my **p
   <figcaption>Vacations</figcaption>
 </figure> 
 
-I started coding with **Javascript** and **PHP**. Until today **PHP** is my main/root programming language.
-But I am also training **JS** with **Node** and **Python** from 2020. I really love to training a lot!
-Usually I participating in Coding Dojo Silesia coding events. It's great to coding with others and
-after that talking about each code. Kata's are the best to practicing coding.
+I started coding with **Javascript** and **PHP**. Until today **PHP** is my main programming language.
+Since 2020, I have also been trained in **Python**. I really love to learn new programming languages and explore ones I am trained in!
+Usually I participate in Coding Dojo Silesia coding events. It's great to code with others and
+discuss the codes afterwards. Kata's are the best exercises to practice coding.
 
-In other way I trying get some knowledge from books. One of the best books are from Uncle Bob and Gynvalel Coldwind.
+Another way I try to learn about programming is through reading books. Two of the best authors are Uncle Bob and Gynvael Coldwind.
 
-I am also enroll to many programming events. I traveling through Poland to listen about newest features
-and ideas. For example: PHPers Summit (Poznań), 4Developers (Warsaw), BoilingFrogs (Wroclaw) etc.
+I am also enroll to many programming events. I travel throughout Poland to hear about the newest features and ideas. For example: PHPers Summit (Poznań), 4Developers (Warsaw), BoilingFrogs (Wroclaw) etc.
 
-I also got some ideas to creating IoT project. I built my own air pollution sensor - [current sensor data](https://marcin.aqi.eco/en) 
-according with [luftdaten](http://luftdaten.org.pl/) project.
+I have also been inspired to create IoT projects. I built my own air pollution sensor - [current sensor data](https://marcin.aqi.eco/en) 
+according with [luftdaten](http://luftdaten.org.pl/) data.
 
-My other plans are to contribute open source projects and join in hackathon.
+My other plans are to contribute to open source projects and to join in hackathona.
 
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/about/me_2.jpg" alt="">
   <figcaption>On one of racing as spectator</figcaption>
 </figure> 
-And know i can describe myself from another side. I am really big fan of motorsports in each kind.
-Formula one, rallying, racing - doesn't matter! I very often practicing on indoor and outdoor go karts.
+Now I can describe myself from different angle.
 
-But not only sitting behind computer screen! I love ot riding on bike, swimming and running (not to much but it's healthy)
+But I do not like only sitting behind computer screen! 
 
-Each year i doing some new things and visiting new places with my lovely girlfriend. And one more thing! - I love animals. My dog name is JSON :) 
+I am a really big fan of motorsports of every kind ex.
+formula one, rallying, racing - doesn't matter! I very often practicing on indoor and outdoor go karts. I very often practice at indoor and outdoor go karting tracks.
+
+I love to ride on bike, go swimming and running. 
+
+Each year I learn new things and visit new places with my lovely girlfriend. And one more thing! - I love animals. My dog's name is JSON. :) 
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/about/me_3.jpg" alt="">

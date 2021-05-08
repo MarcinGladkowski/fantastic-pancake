@@ -236,3 +236,5 @@ Of course, we can create this in many others ways. In this post I show how we ca
 objects. The other thinks is creating more advanced factory to cover some object creation behind some 
 interface to prevent some problems when the rules of initialization of tests object has change.
 
+_Thanks you for reading this_ :)  
+_Marcin_

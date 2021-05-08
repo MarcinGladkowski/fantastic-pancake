@@ -131,7 +131,7 @@ UserBuilder::anUser()
     ->withAnEmail('NewCustomEmail')
     ->withAnName('NewCustomName')
     ->withAnIsActive(false)
-    ->create();
+    ->build();
 ```
 
 It's ok, but for me the biggest downsize is a duplication all properties from object with we want to prepare to tests. In this case, I should prefer using factories. I'm wondering about how to create

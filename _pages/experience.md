@@ -12,33 +12,33 @@ permalink: /experience/
 ---
 * **Xcaliber** / Programmer PHP (04.05.2020 - current, Katowice, Poland)
 
-    Developing high scalability application at gaming industry.
+    Developing high scalability application in the gaming industry.
 
-    Technology stack: PHP (7+), JavaScript, Rest API, Soap, Soap UI, Unit Tests (PHPUnit), HTML, SCSS, Bootstrap, Postgres, GIT, SCRUM, Zend 2, Symfony, Zend Laminas, Doctrine ORM, AngularJS, Docker, Windows, Linux, DDD, Hexagonal architecture, AWS, Business language: english.
+    Technology stack: PHP (7+), JavaScript, Rest API, Soap, Soap UI, Unit Tests (PHPUnit), HTML, SCSS, Bootstrap, Postgres, GIT, SCRUM, Zend 2, Symfony, Zend Laminas, Doctrine ORM, AngularJS, Docker, Windows, Linux, DDD, Hexagonal Architecture, AWS, Business language: English.
 
 ---
 
 * **Swift Software Development** / Programmer PHP (02.01.2018 – 30.04.2020), Katowice, Poland)
 
-    Development application for outpatient clinic. Implementation for government solutions: online prescriptions, online sick leave, making appointments, notifications, registrations
+    Development application for outpatient clinic. Implementation for government solutions: Online Prescriptions, Online Sick Leave, Making Appointments, Notifications, Registrations
 
     Technology stack: PHP, JavaScript, XML, Rest API, Soap, Soap UI, Unit Tests (PHPUnit), HTML, SCSS, Bootstrap, MariaDB, MongoDB, GIT, SCRUM, Zend 2, Doctrine ORM, AngularJS, Docker, Windows, Linux
 
 ---
-* **IT Agency Servaq Sp. z o.o.** / Programmer PHP (17.08.2016 – 31.12.2017), OŚWIĘCIM
+* **IT Agency Servaq Sp. z o.o.** / Programmer PHP (17.08.2016 – 31.12.2017, Oświęcim, Poland)
 
-    Created solutions for interactive agency . Developed applications: company CRM, application to manage sales, creating surveys, solutions for e-commerce.
+    Created solutions for interactive agency . Developed applications: Company CRM, Application to Manage Sales, Creating Surveys, Solutions for e-Commerce.
 
     Technology stack: PHP, JavaScript, Rest API, Symfony, Doctrine ORM, MySQL, GIT, HTML, CSS, Bootstrap, Windows  
 
 ---
 #### Education
 ---
-* AGH University of Science and Technology / Postgraduate studies, Web application development
+* AGH University of Science and Technology / Postgraduate Studies, Web Application Development
 2017– 2018, Cracow, Poland  
 
 ---
-* University of economics in Katowice / Master’s degree, Financial analyst
+* University of Economics in Katowice / Master’s Degree, Financial Analyst
 2013 – 2015, Katowice, Poland
 
 ---
@@ -46,9 +46,9 @@ permalink: /experience/
 #### Additional activities/skills
 
 ---
-* English (B1-B2), [Github account](https://github.com/MarcinGladkowski), participant of Coding Dojo Silesia, participant  WarsawJS, volunteering SpreadIT, course Angular in Space (2018), participant (4Developers, PHPSummit, PHPcon), Hacktoberfest (2019).
+* English (B1-B2), [Github account](https://github.com/MarcinGladkowski), participant of Coding Dojo Silesia, participant  WarsawJS, volunteer SpreadIT, participated ind a course Angular in Space (2018), participant in 4Developers, PHPSummit, PHPcon, Hacktoberfest (2019).
 
 ---
 
-_Thanks for read this_ :)  
+_Thanks you for reading this_ :)  
 _Marcin_
